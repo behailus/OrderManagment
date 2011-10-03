@@ -1,3 +1,5 @@
 <Modules>
   <Module PersistentId="8A4EDB37-DE29-4842-915E-56565F5FFFFD" ModuleId="OrderManagement" />
+  <Module PersistentId="FACE6D74-64D9-4D43-8E29-6055CC340EE5" ModuleId="OrderManagement.Tests" />
+  <Module PersistentId="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30" ModuleId="OrderManagment.Core" />
 </Modules>

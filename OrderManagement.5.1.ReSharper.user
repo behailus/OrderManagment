@@ -7,8 +7,30 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Models/f:AccountModels.cs" caret="10860" fromTop="278" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Account/f:Register.aspx" caret="0" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Account/f:LogOn.aspx" caret="0" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:AccountController.cs" caret="4865" fromTop="147" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Account/f:ChangePassword.aspx" caret="0" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="421" fromTop="10" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="402" fromTop="18" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Product.cs" caret="320" fromTop="14" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Category.cs" caret="272" fromTop="10" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Customer.cs" caret="312" fromTop="13" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Order.cs" caret="408" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:AccountController.cs" caret="4865" fromTop="147" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Models/f:AccountModels.cs" caret="10860" fromTop="278" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="274" fromTop="11" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Product.cs" caret="320" fromTop="14" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Category.cs" caret="258" fromTop="10" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Customer.cs" caret="312" fromTop="13" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Order.cs" caret="408" fromTop="16" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -21,4 +43,16 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="12" />
+      <Item value="string" priority="3" />
+      <Item value="Decimal`0" priority="2" />
+      <Item value="Product`0" priority="0" />
+      <Item value="Customer`0" priority="0" />
+      <Item value="Customer" priority="0" />
+      <Item value="decimal" priority="0" />
+      <Item value="bool" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

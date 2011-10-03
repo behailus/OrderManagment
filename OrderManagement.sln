@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement", "OrderManagement\OrderManagement.csproj", "{8A4EDB37-DE29-4842-915E-56565F5FFFFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement.Web", "OrderManagement\OrderManagement.Web.csproj", "{8A4EDB37-DE29-4842-915E-56565F5FFFFD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement.Tests", "OrderManagement.Tests\OrderManagement.Tests.csproj", "{FACE6D74-64D9-4D43-8E29-6055CC340EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagment.Core", "OrderManagment.Core\OrderManagment.Core.csproj", "{0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +21,10 @@ Global
 		{FACE6D74-64D9-4D43-8E29-6055CC340EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FACE6D74-64D9-4D43-8E29-6055CC340EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FACE6D74-64D9-4D43-8E29-6055CC340EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

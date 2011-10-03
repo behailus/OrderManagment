@@ -1,0 +1,8 @@
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\OrderManagement.Tests.dll.config
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\OrderManagement.Tests.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\OrderManagement.Tests.pdb
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\OrderManagement.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\OrderManagement.pdb
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\obj\Debug\OrderManagement.Tests.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\obj\Debug\OrderManagement.Tests.pdb

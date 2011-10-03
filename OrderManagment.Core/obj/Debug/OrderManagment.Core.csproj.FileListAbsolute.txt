@@ -1,0 +1,5 @@
+C:\Users\tekeste\OrderManagment\OrderManagment.Core\bin\Debug\OrderManagment.Core.dll
+C:\Users\tekeste\OrderManagment\OrderManagment.Core\bin\Debug\OrderManagment.Core.pdb
+C:\Users\tekeste\OrderManagment\OrderManagment.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tekeste\OrderManagment\OrderManagment.Core\obj\Debug\OrderManagment.Core.dll
+C:\Users\tekeste\OrderManagment\OrderManagment.Core\obj\Debug\OrderManagment.Core.pdb

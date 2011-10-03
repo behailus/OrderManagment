@@ -56,15 +56,14 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\HomeControllerTest.cs" />
-    <Compile Include="Controllers\AccountControllerTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OrderManagement\OrderManagement.csproj">
+    <ProjectReference Include="..\OrderManagement\OrderManagement.Web.csproj">
       <Project>{8A4EDB37-DE29-4842-915E-56565F5FFFFD}</Project>
-      <Name>OrderManagement</Name>
+      <Name>OrderManagement.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
