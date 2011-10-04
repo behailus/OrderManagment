@@ -6,3 +6,17 @@ C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\OrderManagement.
 C:\Users\tekeste\OrderManagment\OrderManagement.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\tekeste\OrderManagment\OrderManagement.Tests\obj\Debug\OrderManagement.Tests.dll
 C:\Users\tekeste\OrderManagment\OrderManagement.Tests\obj\Debug\OrderManagement.Tests.pdb
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\OrderManagment.Core.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Raven.Abstractions.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\NLog.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\AsyncCtpLibrary.dll
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Raven.Client.Lightweight.pdb
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\OrderManagment.Core.pdb
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Raven.Abstractions.pdb
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\NLog.pdb
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\NLog.xml

@@ -47,6 +47,7 @@
       <HintPath>G:\Software\RavenDB-Build-482\Client\Raven.Client.MvcIntegration.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web.DynamicData" />
@@ -82,6 +83,10 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helper\EmailSender.cs" />
+    <Compile Include="Infrastructure\DocumentStoreHolder.cs" />
+    <Compile Include="Infrastructure\Index\CustomerOrders.cs" />
+    <Compile Include="Infrastructure\Index\Customer_Order.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

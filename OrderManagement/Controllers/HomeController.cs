@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using OrderManagement.Web.Infrastructure;
+using OrderManagment.Core.Entities;
 
 namespace OrderManagement.Controllers
 {
@@ -11,7 +13,7 @@ namespace OrderManagement.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+           return View();
         }
 
         public ActionResult About()

@@ -7,6 +7,8 @@ namespace OrderManagment.Core.Entities
 {
     public class Order
     {
+        public string OrderNumber { get; set; }
+        
         public Customer Customer { get; set; }
 
         public List<OrderItem> OrderItems { get; set; }
