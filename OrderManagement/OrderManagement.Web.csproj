@@ -119,6 +119,7 @@
     <Content Include="Content\images\spectacles.gif" />
     <Content Include="Content\script.js" />
     <Content Include="Global.asax" />
+    <Content Include="Views\Order\OrderReceived.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
