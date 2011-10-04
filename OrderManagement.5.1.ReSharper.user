@@ -12,53 +12,59 @@
       <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Models/f:AccountModels.cs" caret="10860" fromTop="278" />
       <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Category.cs" caret="272" fromTop="10" />
       <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Customer.cs" caret="312" fromTop="13" />
-      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:OrderItem.cs" caret="161" fromTop="6" />
       <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Product.cs" caret="320" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="21274" fromTop="40" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:About.aspx" caret="387" fromTop="11" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Shared/f:Site.Master" caret="9901" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="358" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/f:DocumentStoreHolder.cs" caret="526" fromTop="18" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="367" fromTop="10" />
-      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Order.cs" caret="385" fromTop="15" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Web.config" caret="590" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Helper/f:EmailSender.cs" caret="592" fromTop="17" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:OrderController.cs" caret="352" fromTop="19" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:CustomerOrders.cs" caret="267" fromTop="10" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Web.config" caret="4793" fromTop="14" />
       <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Global.asax.cs" caret="1121" fromTop="20" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:Customer_Order.cs" caret="816" fromTop="18" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:Customer_Order.cs" caret="867" fromTop="21" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:OrderItem.cs" caret="0" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Command/f:ICommand.cs" caret="194" fromTop="8" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/f:DocumentStoreHolder.cs" caret="710" fromTop="24" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Helper/f:EmailSender.cs" caret="2204" fromTop="36" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Command/f:CommandExecuter.cs" caret="970" fromTop="29" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Command/f:SendEmailCommand.cs" caret="2000" fromTop="33" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:CustomerOrders.cs" caret="267" fromTop="10" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="367" fromTop="10" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:About.aspx" caret="359" fromTop="8" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Shared/f:Site.Master" caret="7613" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:script.js" caret="3984" fromTop="8" />
+      <File id="d:Miscellaneous Files/f:index.html/l:G!?Templates?43?index.html" caret="21413" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="2838" fromTop="5" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:OrderController.cs" caret="1827" fromTop="19" />
+      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Order.cs" caret="0" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="11119" fromTop="23" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="557" fromTop="2" />
     </RecentFiles>
     <RecentEdits>
-      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:OrderItem.cs" caret="170" fromTop="6" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="21274" fromTop="40" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Shared/f:Site.Master" caret="11892" fromTop="35" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Shared/f:Site.Master" caret="10725" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="358" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Shared/f:Site.Master" caret="9880" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Web.config" caret="1227" fromTop="15" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/f:DocumentStoreHolder.cs" caret="236" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/f:DocumentStoreHolder.cs" caret="712" fromTop="26" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/f:DocumentStoreHolder.cs" caret="640" fromTop="21" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="367" fromTop="31" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="367" fromTop="29" />
-      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Order.cs" caret="199" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="367" fromTop="15" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="367" fromTop="13" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="367" fromTop="10" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Global.asax.cs" caret="3669" fromTop="39" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Global.asax.cs" caret="1466" fromTop="14" />
-      <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Order.cs" caret="394" fromTop="15" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:CustomerOrders.cs" caret="290" fromTop="10" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Web.config" caret="901" fromTop="23" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Web.config" caret="844" fromTop="20" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Web.config" caret="621" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Helper/f:EmailSender.cs" caret="1072" fromTop="23" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Helper/f:EmailSender.cs" caret="977" fromTop="25" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Helper/f:EmailSender.cs" caret="1057" fromTop="29" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Helper/f:EmailSender.cs" caret="758" fromTop="21" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Global.asax.cs" caret="1214" fromTop="34" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:Customer_Order.cs" caret="549" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:Customer_Order.cs" caret="816" fromTop="18" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="7517" fromTop="14" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="6018" fromTop="14" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="5446" fromTop="14" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="4995" fromTop="14" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="3034" fromTop="14" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="2790" fromTop="1" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="1992" fromTop="14" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="1704" fromTop="14" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="1226" fromTop="14" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:script.js" caret="3984" fromTop="8" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="305" fromTop="6" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="10373" fromTop="11" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="847" fromTop="11" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="5509" fromTop="5" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="4173" fromTop="5" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="2838" fromTop="5" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="144" fromTop="0" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:OrderController.cs" caret="1827" fromTop="19" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="391" fromTop="8" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1368" fromTop="8" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1368" fromTop="10" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1368" fromTop="8" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1805" fromTop="7" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1368" fromTop="6" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="2159" fromTop="3" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="641" fromTop="2" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1330" fromTop="16" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1647" fromTop="15" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="11119" fromTop="23" />
+      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="557" fromTop="2" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -75,7 +81,7 @@
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
       <Item value="prop" priority="18" />
-      <Item value="string" priority="6" />
+      <Item value="string" priority="9" />
       <Item value="Decimal`0" priority="2" />
       <Item value="Product`0" priority="0" />
       <Item value="Customer`0" priority="1" />
@@ -85,10 +91,10 @@
       <Item value="List" priority="0" />
       <Item value="OrderItem`0" priority="0" />
       <Item value="DateTime`0" priority="1" />
-      <Item value="using" priority="2" />
-      <Item value="var" priority="6" />
+      <Item value="using" priority="4" />
+      <Item value="var" priority="11" />
       <Item value="for" priority="1" />
-      <Item value="new" priority="12" />
+      <Item value="new" priority="19" />
       <Item value="OrderItems" priority="0" />
       <Item value="List&lt;OrderItem&gt;" priority="0" />
       <Item value="OrderItem" priority="2" />
@@ -106,19 +112,19 @@
       <Item value="Acknowledged" priority="0" />
       <Item value="false" priority="1" />
       <Item value="Confirmed" priority="0" />
-      <Item value="true" priority="1" />
+      <Item value="true" priority="4" />
       <Item value="Quantity" priority="0" />
-      <Item value="session" priority="4" />
-      <Item value="order" priority="2" />
-      <Item value="DocumentStoreHolder`0" priority="1" />
-      <Item value="Order`0" priority="0" />
-      <Item value="foreach" priority="0" />
-      <Item value="int" priority="2" />
+      <Item value="session" priority="10" />
+      <Item value="order" priority="17" />
+      <Item value="DocumentStoreHolder`0" priority="2" />
+      <Item value="Order`0" priority="6" />
+      <Item value="foreach" priority="3" />
+      <Item value="int" priority="3" />
       <Item value="ordN" priority="1" />
       <Item value="OrderedParallelQuery" priority="0" />
       <Item value="CustomerOrders`0" priority="0" />
       <Item value="Index" priority="0" />
-      <Item value="public" priority="1" />
+      <Item value="public" priority="5" />
       <Item value="Customer_Order`0" priority="0" />
       <Item value="orders" priority="0" />
       <Item value="from" priority="1" />
@@ -133,23 +139,46 @@
       <Item value="o" priority="2" />
       <Item value="global" priority="0" />
       <Item value="x" priority="0" />
-      <Item value="static" priority="0" />
+      <Item value="static" priority="1" />
       <Item value="smtpClient" priority="0" />
       <Item value="MailMessage`0" priority="0" />
-      <Item value="mailMessage" priority="1" />
-      <Item value="return" priority="1" />
+      <Item value="mailMessage" priority="3" />
+      <Item value="return" priority="5" />
       <Item value="try" priority="0" />
-      <Item value="if" priority="0" />
+      <Item value="if" priority="3" />
       <Item value="customerServiceEmail" priority="1" />
-      <Item value="null" priority="0" />
-      <Item value="MailAddress" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="MailAddress" priority="1" />
       <Item value="typeof" priority="0" />
+      <Item value="ActionResult`0" priority="3" />
+      <Item value="View`0" priority="2" />
+      <Item value="ViewData" priority="1" />
+      <Item value="else" priority="1" />
+      <Item value="To" priority="0" />
+      <Item value="MailAddressCollection" priority="0" />
+      <Item value="Attachment`0" priority="0" />
+      <Item value="attachment" priority="0" />
+      <Item value="IsBodyHtml" priority="0" />
+      <Item value="Body" priority="0" />
+      <Item value="Subject" priority="0" />
+      <Item value="orderItem" priority="2" />
+      <Item value="message" priority="0" />
+      <Item value="id" priority="0" />
+      <Item value="HttpPost" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="ICommand`0" priority="0" />
+      <Item value="SendEmailCommand`0" priority="1" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="exception" priority="0" />
+      <Item value="Html" priority="1" />
+      <Item value="model" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@OrderManagement.Web.Infrastructure.DocumentStoreHolder">
-      <Item value="DocumentStore" priority="2" />
+      <Item value="DocumentStore" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Raven.Client.IDocumentStore">
-      <Item value="OpenSession`0" priority="1" />
+      <Item value="OpenSession`0" priority="3" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.DateTime">
       <Item value="Now" priority="0" />
@@ -161,20 +190,22 @@
       <Item value="ToDecimal`0" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Raven.Client.IDocumentSession">
-      <Item value="Store`0" priority="0" />
-      <Item value="SaveChanges`0" priority="1" />
-      <Item value="Query`2" priority="0" />
+      <Item value="Store`0" priority="1" />
+      <Item value="SaveChanges`0" priority="4" />
+      <Item value="Query`2" priority="1" />
+      <Item value="Load`1" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Raven.Client.Linq.IRavenQueryable`1">
       <Item value="ToList`1" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:OrderManagment.Core.Entities.Order">
-      <Item value="OrderNumber" priority="0" />
-      <Item value="OrderItems" priority="0" />
-      <Item value="Customer" priority="0" />
+      <Item value="OrderNumber" priority="1" />
+      <Item value="OrderItems" priority="2" />
+      <Item value="Customer" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:OrderManagment.Core.Entities.Customer">
-      <Item value="FullName" priority="0" />
+      <Item value="FullName" priority="2" />
+      <Item value="Email" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:OrderManagement.Web.Infrastructure.Index.CustomerOrders">
       <Item value="CustomerName" priority="1" />
@@ -192,15 +223,41 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Net.Mail.MailMessage">
       <Item value="ReplyToList" priority="0" />
+      <Item value="Attachments" priority="0" />
+      <Item value="To" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Net.Mail.MailAddressCollection">
-      <Item value="Add`0" priority="0" />
+      <Item value="Add`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Raven.Client.Indexes.IndexCreation">
       <Item value="CreateIndexes`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Type">
       <Item value="Assembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OrderManagement.Web.Helper.EmailSender">
+      <Item value="SendEMail`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.AttachmentCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OrderManagment.Core.Entities.OrderItem">
+      <Item value="Product" priority="0" />
+      <Item value="Confirmed" priority="0" />
+      <Item value="Acknowledged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OrderManagment.Core.Entities.Product">
+      <Item value="ProductName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OrderManagement.Web.Command.CommandExecuter">
+      <Item value="ExcuteLater`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Label`0" priority="1" />
+      <Item value="DropDownList`0" priority="0" />
+      <Item value="CheckBox`0" priority="0" />
+      <Item value="TextBox`0" priority="0" />
+      <Item value="TextBoxFor`2" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
