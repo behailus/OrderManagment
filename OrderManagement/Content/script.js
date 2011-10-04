@@ -148,7 +148,7 @@ function fixPNG(element) {
 		if (element.tagName == 'IMG') {
 			if (/\.png$/.test(element.src)) {
 				src = element.src;
-				element.src = GetStyleUrl() + 'images/spacer.gif';
+				element.src = GetStyleUrl() + '../../Content/images/spacer.gif';
 			}
 		}
 		else {
