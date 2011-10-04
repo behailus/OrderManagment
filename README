@@ -1,1 +1,3 @@
 Order Managment is a sample application to get familiar with RavenDb, a document database for dot net.
+
+Assuming that there is already a way of ordering a product, when ordered redirects the user to the url /order/OrderReceived/id, an email will be sent to the user with a licence attachment for each product ordered.
