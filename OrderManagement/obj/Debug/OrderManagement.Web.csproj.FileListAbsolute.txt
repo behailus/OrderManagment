@@ -21,3 +21,4 @@ C:\Users\tekeste\OrderManagment\OrderManagement\bin\Newtonsoft.Json.pdb
 C:\Users\tekeste\OrderManagment\OrderManagement\bin\Newtonsoft.Json.xml
 C:\Users\tekeste\OrderManagment\OrderManagement\bin\NLog.pdb
 C:\Users\tekeste\OrderManagment\OrderManagement\bin\NLog.xml
+C:\Users\tekeste\OrderManagment\OrderManagement\bin\Elmah.dll

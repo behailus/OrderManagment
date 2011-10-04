@@ -20,3 +20,4 @@ C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Newtonsoft.Json.
 C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Raven.Abstractions.pdb
 C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\NLog.pdb
 C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\NLog.xml
+C:\Users\tekeste\OrderManagment\OrderManagement.Tests\bin\Debug\Elmah.dll

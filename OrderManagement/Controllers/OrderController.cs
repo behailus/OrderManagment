@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using OrderManagement.Web.Command;
 using OrderManagement.Web.Helper;
 using OrderManagement.Web.Infrastructure;
 using OrderManagment.Core.Entities;
@@ -20,33 +21,29 @@ namespace OrderManagement.Web.Controllers
             return View();
         }
 
-        public ActionResult OrderReceived(int id)
+        public ActionResult OrderReceived()
         {
-            var order = new Order();
-            using(var session=DocumentStoreHolder.DocumentStore.OpenSession())
-            {
-                order = session.Load<Order>(id);
-                if (order == null)
-                    ViewData["Message"] = "Incorrect Order Id";
-                else
-                {
-                    if (EmailSender.SendEMail(order))
-                    {
-                        foreach (var orderItem in order.OrderItems)
-                        {
-                            orderItem.Acknowledged = true;
-                        }
-                        session.SaveChanges();
-                        ViewData["Message"] =
-                            "Your licences have been sent to the email address provided. We thank you.";
-                    }
-                    else
-                        ViewData["Message"] = "There was an error sending an email, we will contact you soon.";
-                }
-            }
             return View();
         }
 
+        [HttpPost]
+        public ActionResult OrderReceived(Order order)
+        {
+            using (var session = DocumentStoreHolder.DocumentStore.OpenSession())
+            {
+                session.Store(order);
+                session.SaveChanges();
+                foreach (var orderItem in order.OrderItems)
+                {
+                    orderItem.Acknowledged = true;
+                }
+                session.SaveChanges();
+                ViewData["Message"] =
+                    "Your licences will be sent to the email address provided. We thank you.";
+                CommandExecuter.ExcuteLater(new SendEmailCommand(order));
+            }
+            return View();
+        }
         public ActionResult Confirmation(int id)
         {
             var order = new Order();
@@ -61,5 +58,6 @@ namespace OrderManagement.Web.Controllers
             }
             return View();
         }
+
     }
 }
