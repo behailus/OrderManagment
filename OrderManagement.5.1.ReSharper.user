@@ -9,63 +9,18 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Models/f:AccountModels.cs" caret="10860" fromTop="278" />
       <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Category.cs" caret="272" fromTop="10" />
       <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Customer.cs" caret="312" fromTop="13" />
       <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Product.cs" caret="320" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Web.config" caret="4793" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/f:Global.asax.cs" caret="1121" fromTop="20" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:Customer_Order.cs" caret="867" fromTop="21" />
       <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:OrderItem.cs" caret="0" fromTop="0" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Command/f:ICommand.cs" caret="194" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/f:DocumentStoreHolder.cs" caret="710" fromTop="24" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Helper/f:EmailSender.cs" caret="2204" fromTop="36" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Command/f:CommandExecuter.cs" caret="970" fromTop="29" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Command/f:SendEmailCommand.cs" caret="2000" fromTop="33" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Infrastructure/d:Index/f:CustomerOrders.cs" caret="267" fromTop="10" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:HomeController.cs" caret="367" fromTop="10" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:About.aspx" caret="359" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Shared/f:Site.Master" caret="7613" fromTop="0" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:script.js" caret="3984" fromTop="8" />
       <File id="d:Miscellaneous Files/f:index.html/l:G!?Templates?43?index.html" caret="21413" fromTop="0" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="2838" fromTop="5" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:OrderController.cs" caret="1827" fromTop="19" />
       <File id="0BA3E03A-5CCE-478C-90C8-65DF7F8AFB30/d:Entities/f:Order.cs" caret="0" fromTop="0" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="11119" fromTop="23" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="557" fromTop="2" />
+      <File id="d:Miscellaneous Files/f:OrderController.cs/l:C!?Users?tekeste?OrderManagment?OrderManagement?Controllers?OrderController.cs" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:ICommand.cs/l:C!?Users?tekeste?OrderManagment?OrderManagement?Command?ICommand.cs" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:SendEmailCommand.cs/l:C!?Users?tekeste?OrderManagment?OrderManagement?Command?SendEmailCommand.cs" caret="97" fromTop="2" />
+      <File id="d:Miscellaneous Files/f:CommandExecuter.cs/l:C!?Users?tekeste?OrderManagment?OrderManagement?Command?CommandExecuter.cs" caret="0" fromTop="0" />
     </RecentFiles>
-    <RecentEdits>
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="7517" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="6018" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="5446" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="4995" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="3034" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="2790" fromTop="1" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="1992" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="1704" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="1226" fromTop="14" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:script.js" caret="3984" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="305" fromTop="6" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="10373" fromTop="11" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="847" fromTop="11" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="5509" fromTop="5" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="4173" fromTop="5" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Home/f:Index.aspx" caret="2838" fromTop="5" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="144" fromTop="0" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Controllers/f:OrderController.cs" caret="1827" fromTop="19" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="391" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1368" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1368" fromTop="10" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1368" fromTop="8" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1805" fromTop="7" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1368" fromTop="6" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="2159" fromTop="3" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="641" fromTop="2" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1330" fromTop="16" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="1647" fromTop="15" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Content/f:Site.css" caret="11119" fromTop="23" />
-      <File id="8A4EDB37-DE29-4842-915E-56565F5FFFFD/d:Views/d:Order/f:OrderReceived.aspx" caret="557" fromTop="2" />
-    </RecentEdits>
+    <RecentEdits />
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
